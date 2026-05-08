@@ -1,1 +1,42 @@
+# Aerospace Embedded Software Experience
 
+## Overview
+
+Experience working on safety-critical embedded software development for Rolls-Royce aircraft engine control systems supporting Airbus programs under DO-178B/C development processes.
+
+## Responsibilities
+
+* Developed and maintained embedded software using Ada 95 and C
+* Worked on Maintenance, Fault Management, Stall Detection, and Interactive Reporting components
+* Performed code modifications, debugging, impact analysis, and verification support
+* Maintained software traceability and configuration management activities
+* Applied SPARK 95 static analysis techniques for runtime error verification
+* Supported review resolution, DV updates, and compliance-related activities
+
+## Technologies & Tools
+
+* Ada 95
+* Embedded C
+* DO-178B/C
+* SPARK 95
+* PTC Integrity
+* Artisan Studio
+* Git/GitHub
+
+## Areas Worked
+
+* Fault Management
+* Interactive Reporting
+* Maintenance Systems
+* Development Variables (DV)
+* Software Verification
+* Traceability Support
+
+## Skills Gained
+
+* Safety-Critical Software Development
+* Real-Time Embedded Systems
+* Verification & Validation
+* Configuration Management
+* Requirements Traceability
+* Embedded Software Debugging
